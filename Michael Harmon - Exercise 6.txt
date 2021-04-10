@@ -1,6 +1,0 @@
-<html>
-    <a href = "http://www.google.com"> Google</a>
-    <p><a href = "http://www.youtube.com">Youtube</a>
-    <p><a href = "http://www.amazon.com">Amazon</a>
-    <p><a href = "http://www.walmart.com">Walmart</a>
-    </html>
